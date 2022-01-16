@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    width: auto;
+}
+
+.first {
+    height: 20px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.last {
+    height: 20px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.first p {
+    margin: auto;
+}

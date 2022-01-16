@@ -1,0 +1,20 @@
+.form {
+    height: 50px;
+    width: 300px;
+    background: aliceblue;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 14px 20px;
+}
+
+.form--theme-xmas {}
+
+.form--theme-green {}
+
+.form--simple {}
+
+.form__input {}
+
+.form__submit {}
+
+.form__submit--disabled {}
